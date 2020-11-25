@@ -1,6 +1,4 @@
 # Leap Years
-A method to return if a given year is a leap year (true/false)
-
 A simple tool that will tell you whether a year is a leap year, according to the following rules:
 
 All years divisible by 400 ARE leap years (e.g. 2000 was a leap year)
